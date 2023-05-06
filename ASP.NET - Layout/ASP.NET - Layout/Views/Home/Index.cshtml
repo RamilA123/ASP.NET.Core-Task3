@@ -1,0 +1,72 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<main>Home main</main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*
+<h1>@ViewData["Name"]</h1>
+@{
+    string name = ViewData["Name"].ToString();
+    int[] arr = (int[])ViewData["nums"];
+    string surname = ViewBag.surname;
+}
+
+<h1>@name</h1>
+<h1>@surname</h1>
+<ul>
+    @for (int i = 0; i < arr.Length; i++)
+    {
+        <li>salam</li>
+    }
+</ul>
+
+
+@model Student
+
+<h2>@Model.FullName</h2>
+<h2>@Model.Address</h2>
+<h2>@Model.Age</h2>
+
+
+@model List<Student>
+
+
+
+@foreach(var student in Model){
+    <h2>@student.FullName</h2>
+    <h2>@student.Address</h2>
+    <h2>@student.Age</h2>
+}
+
+@model HomeVM
+<h3>@Model.Logo</h3>
+<img src="@Model.Slider.Image" />
+@foreach (var student in Model.Students)
+{
+    <h2>@student.FullName</h2>
+    <h2>@student.Address</h2>
+    <h2>@student.Age</h2>
+}
+*@
+

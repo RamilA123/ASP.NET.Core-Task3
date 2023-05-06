@@ -1,0 +1,28 @@
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\bin\Debug\net6.0\appsettings.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\bin\Debug\net6.0\ASP.NET - Layout.exe
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\bin\Debug\net6.0\ASP.NET - Layout.deps.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\bin\Debug\net6.0\ASP.NET - Layout.runtimeconfig.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\bin\Debug\net6.0\ASP.NET - Layout.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\bin\Debug\net6.0\ASP.NET - Layout.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.csproj.AssemblyReference.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.AssemblyInfoInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.AssemblyInfo.cs
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.csproj.CoreCompileInputs.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET - Layout.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET - Layout.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET - Layout.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET - Layout.props
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\scopedcss\bundle\ASP.NET - Layout.styles.css
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\refint\ASP.NET - Layout.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.pdb
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.genruntimeconfig.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ref\ASP.NET - Layout.dll
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.RazorAssemblyInfo.cache
+C:\Users\FX706HCB\Desktop\Code Academy\ASP.NET\ASP.NET - Task 2\ASP.NET - Layout\ASP.NET - Layout\obj\Debug\net6.0\ASP.NET - Layout.RazorAssemblyInfo.cs
